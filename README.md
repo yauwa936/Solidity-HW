@@ -15,8 +15,7 @@ deposit function - we set this as ```public payable``` to ensure only the owner 
 
 Finally, we make a fallback function to call the ```deposit()``` function.
 
-# Let's test the contract now
-### ```Compile then Deploy !```
+# Let's test the contract now, ```Compile then Deploy !```
 ![Image](https://github.com/yauwa936/Solidity-HW/blob/main/Screenshots/deploy.PNG?raw=true)
 
 Following steps:
